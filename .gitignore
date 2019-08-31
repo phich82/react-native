@@ -59,4 +59,5 @@ buck-out/
 /ios/Pods/
 /.history
 /.vscode
+/-copy.vscode
 /.sonarlint
